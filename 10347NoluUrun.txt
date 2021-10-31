@@ -1,0 +1,5 @@
+  <a
+                      class="prd-lnk"
+                      href="/urun/beyaz-uzun-sisme-mont-10347"
+                      rel=""
+                    ></a>
