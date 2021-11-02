@@ -14,8 +14,23 @@
           align-items-center
         "
       >
-        <a href="/User/UserPage">
-          <span id="SepetimText">SEPETİM</span>
+        <a>
+          <div>
+            <span v-b-toggle.sidebar-right id="buttonCartSidebar">SEPETİM</span>
+            <b-sidebar
+              id="sidebar-right"
+              right
+              shadow
+              backdrop
+              backdrop-variant="secondary"
+              bg-variant="white"
+            >
+              <div class="px-3 py-2">
+                <p></p>
+                <div id="cartNameProperty">Sepet</div>
+              </div>
+            </b-sidebar>
+          </div>
         </a>
         <a id="sepetButton" href="/User/UserPage">
           <span class="qty shopping-cart-qty" id="lblUrunAdet">0</span>
@@ -24,3 +39,20 @@
     </div>
   </div>
 </template>
+
+<style>
+#buttonCartSidebar {
+  font-size: 12.2px;
+}
+
+#sidebar-right {
+  width: 500px;
+}
+
+#cartNameProperty {
+  margin-top: 50px;
+  margin-left: 40px;
+  font-weight: 300;
+  font-size: 35px;
+}
+</style>
