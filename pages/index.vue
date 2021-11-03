@@ -2,6 +2,7 @@
     
 <div>
     <Header/>
+    <TwistGangindirim/>
     <SwiperCarousel/>
     <Banner1/>
     <Banner2/>
@@ -10,7 +11,5 @@
     <Footer/>
 
 </div>
-    
-
 
 </template>

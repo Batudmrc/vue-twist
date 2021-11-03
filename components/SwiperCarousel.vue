@@ -29,10 +29,11 @@
     </div>
 
     <div class="carousel-inner">
+
       <div class="carousel-item active">
         <video class="img-fluid" autoplay loop muted>
           <source
-            src="https://player.vimeo.com/external/635078540.hd.mp4?s=07c0d11f0b74b3cec5bfcb42d19944236b6dd335&profile_id=175"
+            src="https://player.vimeo.com/external/641036582.hd.mp4?s=013d98b87a28acf56dae117263f5df3c07420654&profile_id=175"
             type="video/mp4"
           />
         </video>
@@ -49,7 +50,7 @@
       data-mdb-slide="prev"
     >
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
+      <span class="visually-hidden"></span>
     </button>
     <button
       class="carousel-control-next"
@@ -58,9 +59,11 @@
       data-mdb-slide="next"
     >
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Next</span>
+      <span class="visually-hidden"></span>
     </button>
+
   </div>
+  
 </template>
 
 <style>
