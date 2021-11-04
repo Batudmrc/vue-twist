@@ -67,7 +67,7 @@
                   />
                 </picture>
 
-                <a class="btn-full" href="/en-yeniler"></a>
+                <a class="btn-full" href="/Products/NewProducts"></a>
               </div>
             </li>
           </ul>

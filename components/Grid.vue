@@ -65,7 +65,7 @@
                   <div class="prm-title">SHOP BY LOOK</div>
                 </div>
 
-                <a class="btn-full" href="/fall-winter-2021-2022"></a>
+                <a class="btn-full" href="/ShopByLook"></a>
               </div>
             </li>
             <li
