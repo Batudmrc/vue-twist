@@ -1,5 +1,8 @@
 # vue-twist
 
+Made a clone of www.twist.com.tr using Vue framework.
+
+
 ## Build Setup
 
 ```bash
